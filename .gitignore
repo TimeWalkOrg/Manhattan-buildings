@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore any .log files
+*.log
+
+# Ignore any .pdb files (debugging files)
+*.pdb
+
+# Ignore the asset registry cache file
+CachedAssetRegistry.bin
