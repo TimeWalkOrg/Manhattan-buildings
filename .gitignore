@@ -81,3 +81,4 @@ DerivedDataCache/*
 
 # Ignore the asset registry cache file
 CachedAssetRegistry.bin
+UE5ProjectFiles/Saved/Config/CrashReportClient/
