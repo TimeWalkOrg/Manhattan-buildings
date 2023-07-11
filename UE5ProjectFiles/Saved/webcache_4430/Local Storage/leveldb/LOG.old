@@ -1,2 +1,3 @@
-2023/07/01-18:38:43.637 5464 Creating DB D:/Ted/Project/Manhattan-buildings/UE5ProjectFiles/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/07/01-18:38:43.654 5464 Reusing MANIFEST D:/Ted/Project/Manhattan-buildings/UE5ProjectFiles/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/07/08-19:41:08.588 17c8 Reusing MANIFEST D:/Ted/Project/Manhattan-buildings/UE5ProjectFiles/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/07/08-19:41:08.638 17c8 Recovering log #3
+2023/07/08-19:41:08.638 17c8 Reusing old log D:/Ted/Project/Manhattan-buildings/UE5ProjectFiles/Saved/webcache_4430\Local Storage\leveldb/000003.log 
