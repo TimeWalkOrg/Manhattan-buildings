@@ -1,3 +1,12 @@
+<<<<<<< Updated upstream
 2023/08/18-21:48:32.563 c30 Reusing MANIFEST D:/Ted/Project/Manhattan-buildings/UE5ProjectFiles/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
 2023/08/18-21:48:32.574 c30 Recovering log #4
 2023/08/18-21:48:32.575 c30 Reusing old log D:/Ted/Project/Manhattan-buildings/UE5ProjectFiles/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+=======
+2023/08/24-00:22:41.118 4aac Reusing MANIFEST D:/Ted/Project/Manhattan-buildings/UE5ProjectFiles/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/08/24-00:22:41.190 4aac Recovering log #4
+2023/08/24-00:22:41.192 4aac Reusing old log D:/Ted/Project/Manhattan-buildings/UE5ProjectFiles/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2023/08/24-01:05:32.639 29d4 Level-0 table #8: started
+2023/08/24-01:05:32.643 29d4 Level-0 table #8: 14573 bytes OK
+2023/08/24-01:05:32.645 29d4 Delete type=0 #4
+>>>>>>> Stashed changes
